@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Bullseye",
+  "base_artist": "INI",
+  "createdAt": "2026-02-08T19:22:38.527645Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bullet And The Bullseye",
+      "artist": "The Distillers",
+      "has_synced": true,
+      "path": "select/01_Bullet_And_The_Bullseye_The_Distillers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bullseye",
+      "artist": "Bobaflex",
+      "has_synced": false,
+      "path": "select/02_Bullseye_Bobaflex.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bullet & The Bullseye",
+      "artist": "The Distillers",
+      "has_synced": true,
+      "path": "select/03_Bullet_&_The_Bullseye_The_Distillers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bullseye",
+      "artist": "Aly & AJ",
+      "has_synced": false,
+      "path": "select/04_Bullseye_Aly_&_AJ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bullseye (Usopp Rap)",
+      "artist": "Rustage",
+      "has_synced": true,
+      "path": "select/05_Bullseye_(Usopp_Rap)_Rustage.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bullseye",
+      "artist": "Blood On the Dance Floor",
+      "has_synced": true,
+      "path": "select/06_Bullseye_Blood_On_the_Dance_Floor.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bullseye 2 (with Future)",
+      "artist": "Real Boston Richey feat. Future",
+      "has_synced": true,
+      "path": "select/07_Bullseye_2_(with_Future)_Real_Boston_Richey_feat._Future.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bullseye 2 (with Future)",
+      "artist": "Real Boston Richey",
+      "has_synced": true,
+      "path": "select/08_Bullseye_2_(with_Future)_Real_Boston_Richey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bullseye 2",
+      "artist": "Real Boston Richey with Future",
+      "has_synced": true,
+      "path": "select/09_Bullseye_2_Real_Boston_Richey_with_Future.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bullseye 2",
+      "artist": "Real Boston Richey & Future",
+      "has_synced": true,
+      "path": "select/10_Bullseye_2_Real_Boston_Richey_&_Future.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bullseye",
+      "artist": "Dia Frampton",
+      "has_synced": true,
+      "path": "select/11_Bullseye_Dia_Frampton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bullseye",
+      "artist": "Charli Adams",
+      "has_synced": true,
+      "path": "select/12_Bullseye_Charli_Adams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bullseye",
+      "artist": "K CAMP",
+      "has_synced": true,
+      "path": "select/13_Bullseye_K_CAMP.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bullseye Trigger",
+      "artist": "Sleeperstar",
+      "has_synced": true,
+      "path": "select/14_Bullseye_Trigger_Sleeperstar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bullseye",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_Bullseye_INI.txt"
+    }
+  ]
+}
